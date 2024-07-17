@@ -71,7 +71,7 @@
       "prettier --write"
     ],
     "*.{md, json}": [
-      "prettier --wwrite"
+      "prettier --write"
     ]
   },
   "packageManager": "pnpm@9.5.0"
